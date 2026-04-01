@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home_cds/std014/SoC_Design_2026_1/SoC_Design_2026_1/Source_Code/session4/1_mux/1_mux.srcs/sources_1/new/peri_mux_io.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module gpio_mux
+ERROR: [VRFC 10-2989] 'pw0' is not declared [/home_cds/std014/SoC_Design_2026_1/SoC_Design_2026_1/Source_Code/session4/1_mux/1_mux.srcs/sources_1/new/peri_mux_io.v:16]
+ERROR: [VRFC 10-8530] module 'gpio_mux' is ignored due to previous errors [/home_cds/std014/SoC_Design_2026_1/SoC_Design_2026_1/Source_Code/session4/1_mux/1_mux.srcs/sources_1/new/peri_mux_io.v:3]
